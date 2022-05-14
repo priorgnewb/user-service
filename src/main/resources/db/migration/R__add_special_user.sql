@@ -1,0 +1,1 @@
+INSERT INTO users(email, password, username) VALUES ('specialuser@service.org', '$2a$12$bA68dP3EKYevQ1s.KtZe9.2ObmxC37bNH37qZU8p09OIjSFj8niLW', 'specialuser');
